@@ -19,6 +19,7 @@
 -   [2023-09-27](patch-notes/2023-09-27.md)
 -   [2023-10-03](patch-notes/2023-10-03.md)
 -   [2023-10-05](patch-notes/2023-10-05.md)
+-   [2023-10-10](patch-notes/2023-10-10.md)
 
 ## 📜 규칙 <a href="#rules" id="rules"></a>
 
