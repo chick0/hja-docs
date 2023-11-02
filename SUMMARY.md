@@ -1,7 +1,6 @@
 # Table of contents
 
 -   [👋 환영합니다!](README.md)
--   [⛳ 업데이트 계획](update-plans.md)
 
 ## 📙 가이드 <a href="#guides" id="guides"></a>
 
@@ -28,3 +27,4 @@
 -   [2023-10-10](patch-notes/2023-10-10.md)
 -   [2023-10-13](patch-notes/2023-10-13.md)
 -   [2023-10-14](patch-notes/2023-10-14.md)
+-   [2023-11-03](patch-notes/2023-11-03.md)
