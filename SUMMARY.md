@@ -14,14 +14,7 @@
 
 ## 📚 패치 노트 <a href="#patch-notes" id="patch-notes"></a>
 
--   [2023-09-17](patch-notes/2023-09-17.md)
--   [2023-09-18](patch-notes/2023-09-18.md)
--   [2023-09-19](patch-notes/2023-09-19.md)
--   [2023-09-20](patch-notes/2023-09-20.md)
--   [2023-09-21](patch-notes/2023-09-21.md)
--   [2023-09-22](patch-notes/2023-09-22.md)
--   [2023-09-26](patch-notes/2023-09-26.md)
--   [2023-09-27](patch-notes/2023-09-27.md)
+-   [2023-09](patch-notes/2023-09.md)
 -   [2023-10-03](patch-notes/2023-10-03.md)
 -   [2023-10-05](patch-notes/2023-10-05.md)
 -   [2023-10-10](patch-notes/2023-10-10.md)
