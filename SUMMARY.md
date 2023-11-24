@@ -11,6 +11,7 @@
 -   [순위 표기 기준](rules/rank.md)
 -   [종합 랭킹 시스템](rules/ranking.md)
 -   [레이팅 시스템](rules/rating.md)
+-   [팀 시스템](rules/team.md)
 
 ## 📚 패치 노트 <a href="#patch-notes" id="patch-notes"></a>
 
