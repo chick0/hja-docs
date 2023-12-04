@@ -18,6 +18,7 @@
 -   [2023년 09월](patch-notes/2023-09.md)
 -   [2023년 10월](patch-notes/2023-10.md)
 -   [2023년 11월](patch-notes/2023-11.md)
+-   [2023년 12월](patch-notes/2023-12.md)
 
 ## 💬 메시지 <a href="#messages" id="messages"></a>
 
